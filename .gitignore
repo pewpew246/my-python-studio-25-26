@@ -1,1 +1,7 @@
-.ipynb_checkpoints
+# Anything listed here is automatically ignored (not track/commit)
+
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
